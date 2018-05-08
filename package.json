@@ -1,0 +1,8 @@
+{
+  "name": "kankeView",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:WuHuiLong/kankeView.git",
+  "author": "longen0707 <2917153335@qq.com>",
+  "license": "MIT"
+}
